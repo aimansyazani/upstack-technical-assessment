@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "react-native-comunity-project",
+    "slug": "my-app",
+    "useClassicUpdates": true,
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "c40d43ed-5712-4d42-94c4-29493095a847"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/c40d43ed-5712-4d42-94c4-29493095a847"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
