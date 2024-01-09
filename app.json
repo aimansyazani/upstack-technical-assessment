@@ -24,7 +24,11 @@
     "updates": {
       "url": "https://u.expo.dev/c40d43ed-5712-4d42-94c4-29493095a847"
     },
-    "android": {},
-    "ios": {}
+    "android": {
+      "package": "com.aimansyazani.myapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.aimansyazani.myapp"
+    }
   }
 }
